@@ -1,0 +1,481 @@
+{
+  "settings": {
+    "name": "COVID - Resources",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore",
+      "styling": {
+        "primaryColor": "#007c6f",
+        "successColor": "#7ac673",
+        "infoColor": "#27aae0",
+        "warningColor": "#faaf40",
+        "dangerColor": "#f97352",
+        "titleFont": "Noto Sans",
+        "textFont": "Noto Sans",
+        "isSquareButtons": false
+      },
+      "additionalSetColors": [
+        "#ffffff",
+        "#000000",
+        "#007c6f"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 21,
+    "versionPublish": "4.12.3"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/istock-1210596217-2000x1000.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.35
+          },
+          "title": "COVID Resources",
+          "text": "While we're all staying safe at home, here are some great resources to help you learn new skills and grow your business from wherever you are.",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Purchase Now <i class=\"fa fa-shopping-basket\"></i></a><a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-default btn-border\">Learn More <i class=\"fa fa-angle-right\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-0"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-family": "'Noto Sans', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {
+              "name": "Noto Sans",
+              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "css": "'Noto Sans', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Leading re</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Webinars</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">certification courses</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-7"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitles": true,
+            "tabs": "3",
+            "showMedia": true,
+            "bgImageRadio": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/med-badr-chemmaoui-kf8-7yi4bkg-unsplash-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Tab Content",
+          "title1": "The Institute",
+          "title2": "CAR Resources",
+          "title3": "Dilbeck Training Videos",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"false\">leading re</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"false\">dilbeck trainings</a></li><li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"true\">Car.org resources</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
+          "text1_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text2_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text3_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text4_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-j"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#007c6f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Online Courses &amp; Certifications",
+          "text": "",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box18",
+          "_anchor": "msg-box18-h"
+        },
+        {
+          "_params": {
+            "showMedia": true,
+            "showName": true,
+            "showOccupation": true,
+            "showTexts": true,
+            "showSocials": false,
+            "bgImageRadio": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-7059-600x800.png",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title1": "Dilbeck Social Media Trainings",
+          "subtitle1": "Founder",
+          "caption1": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-7061-600x800.png",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title2": "LuxuryRE Institute",
+          "subtitle2": "Reception",
+          "caption2": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-7062-600x800.png",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title3": "Virtual Showing Tips",
+          "subtitle3": "Sales Team",
+          "caption3": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-7065-600x800.png",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title4": "Zoom - How To's",
+          "subtitle4": "Front End",
+          "caption4": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links4": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-d"
+        },
+        {
+          "_params": {
+            "showMedia": true,
+            "showName": true,
+            "showOccupation": true,
+            "showTexts": true,
+            "showSocials": false,
+            "bgImageRadio": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-7066-600x800.png",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title1": "Remote Prospecting",
+          "subtitle1": "Founder",
+          "caption1": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-7070-600x800.png",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title2": "Social Outreach During Covid",
+          "subtitle2": "Reception",
+          "caption2": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-7068-600x800.png",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title3": "Economic Forecasts",
+          "subtitle3": "Sales Team",
+          "caption3": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-7069-600x800.png",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title4": "Staying Productive From Home",
+          "subtitle4": "Front End",
+          "caption4": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links4": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "tabs": "3",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "COVID Relief for agents",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#msg-box6-k\" data-core=\"\" href=\"#collapseOnemsg-box6-k\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Unemployment Benefits</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#msg-box6-k\" data-core=\"\" href=\"#collapseTwomsg-box6-k\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Calfornia benefits</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#msg-box6-k\" data-core=\"\" href=\"#collapseThreemsg-box6-k\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Small business relief</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#msg-box6\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#msg-box6\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#msg-box6\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text2": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text3": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-k"
+        }
+      ]
+    }
+  }
+}
